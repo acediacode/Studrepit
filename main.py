@@ -26,8 +26,4 @@ def bin_search(num,array):
         else:
             start=mid+1
 
-if __name__=='__main__':
-    print(bin_search(5,a))
-else:
-    print(__name__)
 
