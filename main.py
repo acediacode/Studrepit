@@ -28,6 +28,7 @@ def bin_search(num,array):
 
 if __name__=='__main__':
     print(bin_search(5,a))
+    print("it's a test file")
 else:
     print(__name__)
 
